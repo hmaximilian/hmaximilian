@@ -63,5 +63,5 @@ I want to build tools that help researchers move faster, test ideas earlier, and
 I'm interested in collaborations around AI-assisted chemistry, molecular design, automated simulations, and scientific software that helps researchers move from ideas to reproducible results faster.
 
 <p align="center">
-  <img src="assets/better_world.gif" alt="Building AI tools for a better world" width="1050">
+  <img src="assets/better_world.gif" alt="Trying to build AI tools for a better world" width="1050">
 </p>
