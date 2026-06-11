@@ -4,6 +4,13 @@
 
 My main work is **DELFIN**, an open-source, AI-orchestrated computational chemistry platform for automated molecular property prediction and inverse molecular design. It connects structure generation, quantum chemistry workflows, machine-learning potentials, interactive dashboards, automated reports, and AI agents into one practical research platform.
 
+## About me
+
+- I build AI-assisted tools for chemistry, simulation, and scientific automation.
+- I care about making complex scientific workflows easier to use, reproduce, and extend.
+- I work at the intersection of computational chemistry, software engineering, and AI agents.
+- I like tools that turn expert-only workflows into practical research infrastructure.
+
 ## What I work on
 
 - AI-assisted tools for scientific discovery
@@ -34,6 +41,10 @@ I want to build tools that help researchers move faster, test ideas earlier, and
 ## Tech I use
 
 Python · Linux · Git · GitHub · DFT · RDKit · ORCA · xTB · machine-learning potentials · AI agents
+
+## Connect & collaborate
+
+I'm interested in collaborations around AI-assisted chemistry, molecular design, automated simulations, and scientific software that helps researchers move from ideas to reproducible results faster.
 
 <p align="center">
   <img src="assets/better_world.gif" alt="Building AI tools for a better world" width="1050">
