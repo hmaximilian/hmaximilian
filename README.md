@@ -1,0 +1,40 @@
+<p align="center">
+  <img src="assets/max_intro.gif" alt="Hi, I'm Max - Building AI tools for scientific discovery" width="1050">
+</p>
+
+My main work is **DELFIN**, an open-source, AI-orchestrated computational chemistry platform for automated molecular property prediction and inverse molecular design. It connects structure generation, quantum chemistry workflows, machine-learning potentials, interactive dashboards, automated reports, and AI agents into one practical research platform.
+
+## What I work on
+
+- AI-assisted tools for scientific discovery
+- Computational chemistry and molecular property prediction
+- Automated DFT workflows for redox potentials, spin states, spectra, and excited-state dynamics
+- Human-friendly dashboards for complex scientific software
+- Reproducible research infrastructure
+
+## Featured project
+
+### [DELFIN](https://github.com/ComPlat/DELFIN)
+
+DELFIN is an AI-orchestrated computational chemistry platform designed to turn molecular input into reproducible quantum-chemical predictions.
+
+It supports workflows such as:
+
+- SMILES-to-property prediction
+- automated structure generation for organic molecules and metal complexes
+- redox potential and spin-state prediction
+- spectroscopy and excited-state calculations
+- inverse molecular design with evolutionary optimization
+- AI-agent support for workflow control, analysis, and code development
+
+## Direction
+
+I want to build tools that help researchers move faster, test ideas earlier, and make complex scientific methods usable beyond small expert circles.
+
+## Tech I use
+
+Python · Linux · Git · GitHub · DFT · RDKit · ORCA · xTB · machine-learning potentials · AI agents
+
+<p align="center">
+  <img src="assets/better_world.gif" alt="Building AI tools for a better world" width="1050">
+</p>
