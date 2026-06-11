@@ -38,9 +38,25 @@ It supports workflows such as:
 
 I want to build tools that help researchers move faster, test ideas earlier, and make complex scientific methods usable beyond small expert circles.
 
-## Tech I use
+## Core stack
 
-Python · Linux · Git · GitHub · DFT · RDKit · ORCA · xTB · machine-learning potentials · AI agents
+| Area | Tools and focus |
+| --- | --- |
+| Scientific AI | Python, AI agents, workflow orchestration, automated reasoning over simulation results |
+| Computational chemistry | DFT, RDKit, ORCA, xTB, CREST, molecular property prediction, inverse molecular design |
+| Frontend & UX | Jupyter, Voila, ipywidgets, py3Dmol, browser-based scientific dashboards |
+| Backend & automation | Python CLIs, job orchestration, report generation, reproducible pipeline design |
+| DevOps & tools | Linux, Git, GitHub, GitHub Actions, packaging, reproducible research infrastructure |
+
+## Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hmaximilian/hmaximilian/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hmaximilian/hmaximilian/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hmaximilian/hmaximilian/output/github-snake.svg">
+  </picture>
+</p>
 
 ## Connect & collaborate
 
