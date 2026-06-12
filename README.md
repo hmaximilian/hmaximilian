@@ -21,7 +21,11 @@ My main work is **DELFIN**, an open-source, AI-orchestrated computational chemis
 
 ## Featured project
 
-### [DELFIN](https://github.com/ComPlat/DELFIN)
+<p align="center">
+  <a href="https://github.com/ComPlat/DELFIN">
+    <img src="assets/delfin_readme_demo.gif" alt="DELFIN" width="820">
+  </a>
+</p>
 
 DELFIN is an AI-orchestrated computational chemistry platform designed to turn molecular input into reproducible quantum-chemical predictions.
 
