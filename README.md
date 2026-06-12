@@ -66,6 +66,16 @@ I want to build tools that help researchers move faster, test ideas earlier, and
 
 I'm interested in collaborations around AI-assisted chemistry, molecular design, automated simulations, and scientific software that helps researchers move from ideas to reproducible results faster.
 
+## What's next
+
+More scientific AI tools are on the way. Stay tuned.
+
+<p align="center">
+  <img src="assets/manta_readme_demo.gif" alt="MANTA" width="500">
+  <br>
+  <img src="assets/chemdarwin_readme_demo.gif" alt="ChemDarwin" width="500">
+</p>
+
 <p align="center">
   <img src="assets/better_world_v2.gif" alt="Trying to build AI tools for a better world" width="1050">
 </p>
