@@ -2,6 +2,10 @@
   <img src="assets/max_intro.gif" alt="Hi, I'm Max - Building AI tools for scientific discovery" width="1050">
 </p>
 
+<p align="center">
+  <strong>Building AI-driven, resilient, self-improving agentic architectures and optimization loops.</strong>
+</p>
+
 My main work is **DELFIN**, an open-source, AI-orchestrated computational chemistry platform for automated molecular property prediction and inverse molecular design. It connects structure generation, quantum chemistry workflows, machine-learning potentials, interactive dashboards, automated reports, and AI agents into one practical research platform.
 
 ## About me
