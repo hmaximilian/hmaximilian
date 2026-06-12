@@ -71,9 +71,9 @@ I'm interested in collaborations around AI-assisted chemistry, molecular design,
 More scientific AI tools are on the way. Stay tuned.
 
 <p align="center">
-  <img src="assets/manta_readme_demo.gif" alt="MANTA" width="500">
+  <img src="assets/manta_readme_demo.gif" alt="MANTA" width="820">
   <br>
-  <img src="assets/chemdarwin_readme_demo.gif" alt="ChemDarwin" width="500">
+  <img src="assets/chemdarwin_readme_demo.gif" alt="ChemDarwin" width="820">
 </p>
 
 <p align="center">
