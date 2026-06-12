@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Building AI-driven, resilient, self-improving agentic architectures and optimization loops.</strong>
+  <strong>Engineering self-improving, self-auditing agentic systems and optimization loops:</strong><br>
+  Sense → Think → Act → Learn. Resilient by architecture, honest by calibration — every metric anchored in reality/ground-truth, every loop Goodhart-robust.
 </p>
 
 My main work is **DELFIN**, an open-source, AI-orchestrated computational chemistry platform for automated molecular property prediction and inverse molecular design. It connects structure generation, quantum chemistry workflows, machine-learning potentials, interactive dashboards, automated reports, and AI agents into one practical research platform.
