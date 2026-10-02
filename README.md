@@ -78,9 +78,11 @@ More scientific AI tools are on the way. Stay tuned.
 <p align="center">
   <img src="assets/manta_readme_demo.gif" alt="MANTA" width="820">
   <br>
+  <img src="assets/weddell_readme_demo.gif" alt="WEDDELL" width="820">
+  <br>
   <img src="assets/chemdarwin_readme_demo.gif" alt="ChemDarwin" width="820">
 </p>
 
 <p align="center">
-  <img src="assets/better_world_v2.gif" alt="Trying to build AI tools for a better world" width="1050">
+  <img src="assets/animal_loop.gif" alt="Stay in the Animal Loop" width="1050">
 </p>
