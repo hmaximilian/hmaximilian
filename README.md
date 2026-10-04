@@ -73,7 +73,7 @@ I'm interested in collaborations around AI-assisted chemistry, molecular design,
 
 ## What's next
 
-More scientific AI tools are on the way. Stay tuned.
+More scientific AI tools are on the way.
 
 <p align="center">
   <img src="assets/manta_readme_demo.gif" alt="MANTA" width="820">
